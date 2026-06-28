@@ -1,0 +1,6 @@
+{
+  "name": "EventSphere",
+  "description": "EventSphere is a premium Event Management & Hall Booking platform featuring elegant glassmorphic cards, granular time-slot booking validation, custom extra services configuration, and a full admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
